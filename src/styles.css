@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  width: 90%;
+  height: 50px;
+  background: black;
+  color: white;
+  justify-content: space-around;
+  margin: auto;
+}
+button {
+  background-color: rgb(0, 234, 255);
+  margin-top: 8px;
+  width: 100px;
+  height: 35px;
+  border-radius: 20px;
+  color: white;
+}
+.link {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 19px;
+  width: 125%;
+  margin-top: 16px;
+}
+.logo {
+  margin-top: 10px;
+}
